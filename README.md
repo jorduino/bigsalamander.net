@@ -1,2 +1,1 @@
-# bigsalamander.net
-Website for THE big salamander
+Website for the big salamander
